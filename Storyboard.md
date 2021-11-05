@@ -1,3 +1,8 @@
+<img src="https://media.discordapp.net/attachments/883233661800050743/906116636682121236/strb_1.png">
+<img src="https://media.discordapp.net/attachments/883233661800050743/906116641929195540/strb_2.png">
+<img src="https://media.discordapp.net/attachments/883233661800050743/906116683012382770/strb_4.png">
+<img src="https://media.discordapp.net/attachments/883233661800050743/906116683029176331/strb_3.png">
+
 # วิธีการใช้งาน
 <img src="https://media.discordapp.net/attachments/883233661800050743/904388713549791284/unknown.png">
 <img src="https://media.discordapp.net/attachments/883233661800050743/904388732826820708/unknown.png">
